@@ -94,6 +94,9 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}"><img src="images/xhs.png" alt="Red note" style="height:1em;width:1.28571429em;object-fit:contain;vertical-align:-0.15em;border-radius:2px;" class="fa-fw"> Red note</a></li>
+      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
@@ -188,6 +191,9 @@
       {% endif %}
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}"><img src="images/xhs.png" alt="Xiaohongshu" style="height:1em;width:1em;vertical-align:-0.15em;border-radius:2px;"></a>
       {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>
