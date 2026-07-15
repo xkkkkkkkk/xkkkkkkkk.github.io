@@ -39,6 +39,17 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/codi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization
+
+Yuqian Wang, Yuanzheng Wang, Chaojun Xiao, **Ke Xu**, Bingxiang He, Jinghan Tan, Zijun Chen, Lu Chen, Yi-Xin Huo, Maosong Sun
+
+- Proposes CoDI, a meta-learning method that induces query-blind, task-level inductive representations to improve in-context learning under out-of-distribution shift, with gains persisting even without explicit induction at inference.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/scoperl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
