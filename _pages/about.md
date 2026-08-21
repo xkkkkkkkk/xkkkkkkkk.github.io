@@ -29,7 +29,7 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/stamp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/stamp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [STAMP: Provenance-Guided Credit Assignment for Deep Search Agents](https://arxiv.org/abs/2607.11172)
@@ -40,7 +40,7 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/codi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/codi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization
@@ -51,7 +51,7 @@ Yuqian Wang, **Ke Xu**, Chaojun Xiao, Yuanzheng Wang, Bingxiang He, Jinghan Tan,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/scoperl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/scoperl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SCOPE-RL: Optimizing Reasoning Paths Before and After Success](https://arxiv.org/abs/2607.11506)
