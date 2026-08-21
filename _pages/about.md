@@ -22,6 +22,7 @@ Hi! I'm **Ke Xu** — I just finished my M.Eng. at Peking University and recentl
 My research lives at the crossroads of **LLM Agents** and **Reinforcement Learning**. Always happy to chat about agents, RL, or anything in between!
 
 # 🔥 News
+- *2026.08*: &nbsp;🎓 Thrilled to share that we’ve got three papers accepted at EMNLP!!
 - *2026.07*: &nbsp;🎓 Graduated with my M.Eng. from Peking University and joined Baidu ERNIE to keep working on LLM agents!
 - *2026.04*: &nbsp;🎉 Our paper *FuseSearch* was accepted to Findings of ACL 2026!
 - *2023.06*: &nbsp;🎓 Graduated with my B.Eng. from Sun Yat-sen University and was admitted to Peking University for graduate study.
@@ -33,7 +34,7 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 
 [STAMP: Provenance-Guided Credit Assignment for Deep Search Agents](https://arxiv.org/abs/2607.11172)
 
-**Ke Xu**, Han Xu, Xinran Chen, Yuqian Wang, Zhixuan Li, Xiaojian Liu, Changwo Wu, Jianqiang Xia, Yuchen Li
+**Ke Xu**, Han Xu, Xinran Chen, Yuqian Wang, Zhixuan Li, Xiaojian Liu, Changwo Wu, Jianqiang Xia, Yuchen Li *Findings of EMNLP 2026*
 
 - A provenance-guided credit assignment method that traces which retrieval steps actually drive a deep search agent's final answer, giving cleaner learning signals.
 </div>
@@ -44,7 +45,7 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 
 Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization
 
-Yuqian Wang, **Ke Xu**, Chaojun Xiao, Yuanzheng Wang, Bingxiang He, Jinghan Tan, Zijun Chen, Lu Chen, Yi-Xin Huo, Maosong Sun
+Yuqian Wang, **Ke Xu**, Chaojun Xiao, Yuanzheng Wang, Bingxiang He, Jinghan Tan, Zijun Chen, Lu Chen, Yi-Xin Huo, Maosong Sun *Main of EMNLP 2026*
 
 - Proposes CoDI, a meta-learning method that induces query-blind, task-level inductive representations to improve in-context learning under out-of-distribution shift, with gains persisting even without explicit induction at inference.
 </div>
@@ -55,7 +56,7 @@ Yuqian Wang, **Ke Xu**, Chaojun Xiao, Yuanzheng Wang, Bingxiang He, Jinghan Tan,
 
 [SCOPE-RL: Optimizing Reasoning Paths Before and After Success](https://arxiv.org/abs/2607.11506)
 
-Xiaojian Liu, Han Xu, Jianqiang Xia, Zhixuan Li, **Ke Xu**, Yiwei Dai, Xinran Chen, Changwo Wu, Yuchen Li
+Xiaojian Liu, Han Xu, Jianqiang Xia, Zhixuan Li, **Ke Xu**, Yiwei Dai, Xinran Chen, Changwo Wu, Yuchen Li *Findings of EMNLP 2026*
 
 - An RL approach that refines an agent's reasoning paths both before and after a correct answer, making the reasoning more robust and reliable.
 </div>
