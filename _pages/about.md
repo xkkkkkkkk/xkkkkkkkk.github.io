@@ -22,7 +22,7 @@ Hi! I'm **Ke Xu** — I just finished my M.Eng. at Peking University and recentl
 My research lives at the crossroads of **LLM Agents** and **Reinforcement Learning**. Always happy to chat about agents, RL, or anything in between!
 
 # 🔥 News
-- *2026.08*: &nbsp;🎓 Thrilled to share that we’ve got three papers accepted at EMNLP!!
+- *2026.08*: &nbsp;🎉 Thrilled to share that we’ve got three papers accepted at EMNLP!!
 - *2026.07*: &nbsp;🎓 Graduated with my M.Eng. from Peking University and joined Baidu ERNIE to keep working on LLM agents!
 - *2026.04*: &nbsp;🎉 Our paper *FuseSearch* was accepted to Findings of ACL 2026!
 - *2023.06*: &nbsp;🎓 Graduated with my B.Eng. from Sun Yat-sen University and was admitted to Peking University for graduate study.
@@ -43,7 +43,7 @@ My research lives at the crossroads of **LLM Agents** and **Reinforcement Learni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/codi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization
+[Cognitively Decoupled Meta-Induction for Out-of-Distribution Generalization](https://arxiv.org/abs/2610.25749)
 
 Yuqian Wang, Chaojun Xiao, Yuanzheng Wang, **Ke Xu**, Bingxiang He, Jinghan Tan, Zijun Chen, Lu Chen, Yi-Xin Huo, Maosong Sun. *Main of EMNLP 2026*
 
